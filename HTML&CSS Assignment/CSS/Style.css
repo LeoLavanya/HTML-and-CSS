@@ -1,0 +1,79 @@
+@import url('http://fonts.cdnfonts.com/css/caros');
+#First{
+    background-image: url('../Image/Vector-1.png');
+    background-position: center;
+}
+#Call{
+    color: #283a5e;
+    font-family:'CarosBold',sans-serif;
+    font-size: 30px;
+    line-height: 30px;
+    src : 20px;
+    text-align: left;
+}
+#support{
+    font-size: 16px;
+    color: #FF4800;
+    letter-spacing: 0;
+    line-height: 30px;
+    padding-top: 16px;
+}
+#message{
+    padding: 60px 0px 50px 0px;
+    width: 100%;
+    position: right;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #828893;
+    text-align: center;
+}
+.benifits{
+    border: 1px solid gray;
+    width:20%;
+    overflow:hidden;
+    float:left;
+    margin: 30px 70px;
+    text-align: center;
+    color: #828893;
+    border-radius: 5px;
+}
+body{
+    background-image: url('../Image/boldbi_chat_Icon.svg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+    font-family: 'CarosBold',sans-serif;
+}
+a{
+    text-decoration: none;
+}
+#location{
+    font-family: 'CarosBold',sans-serif;
+    font-weight:400px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+align{
+    text-align: left;
+}
+
+#footer{
+    text-align: center;
+}
+#informations{
+    height: 600px;
+    width:500px;
+    padding: 20px;
+    background-position: right;
+    border:1px solid white;
+    float:left;
+    margin: 30px 70px;
+    border-radius: 5px;
+}
+info{
+    text-align: center;
+}
+    
